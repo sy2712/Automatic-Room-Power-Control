@@ -1,0 +1,7 @@
+• Automatic Room Power Controller will automatically switch onn the light whenever the person 
+  enters the room(Provided that the light is insufficient). If more than one person enters the 
+  room ,say one after the another then in that condition the light stays onn.
+
+• The light turns off only when the room is vacant in other words when all the persons have left 
+  the room.
+
